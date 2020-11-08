@@ -1,0 +1,36 @@
+itay.shukrun
+203262068
+Itay Shukrun
+
+=============================
+=  README for ex9  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+
+Rush game, Using diffrent classes,
+
+game is to get a car through the Exit.
+
+======================
+=  Special Comments  =
+======================
+
+Ive added 2 functions,
+
+checking_game_input - in oreder to check
+the user input, this way its much easer
+to read.
+gets the input and check if it valid,
+print if it doesnt and return false
+otherwise return true
+
+adding_valid_cars - gets Json data,
+and the board we want to work on.
+going through data values and
+if valid add the car to the board.
+otherwise prints whats the problem
+and continue to next car
